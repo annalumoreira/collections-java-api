@@ -1,6 +1,6 @@
 ## Operações Básicas com List
 
-### Exercícios para fixação de conteúdo sobre Collections no Bootcamp *Santander 2024 - Backend com Java* pela DIO:
+### Exercícios para fixação de conteúdo sobre Collections no *Bootcamp Santander 2024 - Backend com Java* pela DIO:
 
 ### 1. Lista de Tarefas
 <p>Crie uma classe chamada "ListaTarefas" que possui uma lista de tarefas como atributo. Cada tarefa é representada por uma classe chamada "Tarefa" que possui um atributo de descrição. Implemente os seguintes métodos:

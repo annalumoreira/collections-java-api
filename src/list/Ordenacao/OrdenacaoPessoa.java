@@ -1,4 +1,4 @@
-package Ordenacao;
+package list.Ordenacao;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -38,7 +38,7 @@ public class OrdenacaoPessoa {
 
   public static void main(String[] args) {
   // Criando uma instância da classe OrdenacaoPessoas
-    OrdenacaoPessoas ordenacaoPessoas = new OrdenacaoPessoas();
+    OrdenacaoPessoa ordenacaoPessoas = new OrdenacaoPessoa();
 
     // Adicionando pessoas à lista
     ordenacaoPessoas.adicionarPessoa("Alice", 20, 1.56);
