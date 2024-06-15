@@ -11,6 +11,7 @@ public class AgendaContatos {
     this.agendaContatoMap = new HashMap<>();
   }
 
+  // Diferente de LIST e SET, MAP não aceita elementos duplicados, alem disso, usa o método put() para adicionar elementos
   public void adicionarContato(String nome, Integer telefone) {
     agendaContatoMap.put(nome, telefone);
   }
